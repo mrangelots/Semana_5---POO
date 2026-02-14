@@ -94,3 +94,5 @@ public class act_4 {
         sc.close();
     }
 }
+
+//para comentar

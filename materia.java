@@ -62,3 +62,5 @@ public class materia {
         return "Materia: " + nombre + "\nClave: " + clave + "\nCréditos: " + creditos + "\nHoras semanales: " + horasSemanales;
     }
 }
+
+//para comentar
